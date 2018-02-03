@@ -12,6 +12,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var number = 0
-  number += n
+  var number = n
+  number += 1
 } 
