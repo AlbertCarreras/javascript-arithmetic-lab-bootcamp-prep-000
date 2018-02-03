@@ -1,12 +1,12 @@
-
-
-function inc(n) {
-    a += 1
+function add(a, b) {
+  return a + b
 }
-function dec(n) {
-  a -= 1
+function subtract(a, b) {
+  return a - b
 }
-/*
-function dec(n){
-  
-}*/
+function multiply(a, b) {
+  return a * b
+}
+function divide(a, b) {
+  return  a / b
+}
